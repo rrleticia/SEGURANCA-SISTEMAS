@@ -1,0 +1,278 @@
+[
+  {
+    "package": "@babel/runtime",
+    "trivy_vulns": [
+      "CVE-2025-27789"
+    ],
+    "grype_vulns": [
+      "GHSA-968p-4wvh-cqc8"
+    ],
+    "status": "both"
+  },
+  {
+    "package": "@grpc/grpc-js",
+    "trivy_vulns": [
+      "CVE-2024-37168"
+    ],
+    "grype_vulns": [
+      "GHSA-7v5v-9h63-cj86"
+    ],
+    "status": "both"
+  },
+  {
+    "package": "body-parser",
+    "trivy_vulns": [
+      "CVE-2024-45590"
+    ],
+    "grype_vulns": [
+      "GHSA-qwcr-r2fm-qrc7"
+    ],
+    "status": "both"
+  },
+  {
+    "package": "braces",
+    "trivy_vulns": [
+      "CVE-2024-4068"
+    ],
+    "grype_vulns": [
+      "GHSA-grv7-fg5c-xmjg"
+    ],
+    "status": "both"
+  },
+  {
+    "package": "cookie",
+    "trivy_vulns": [
+      "CVE-2024-47764"
+    ],
+    "grype_vulns": [
+      "GHSA-pxg6-pf52-xh8x"
+    ],
+    "status": "both"
+  },
+  {
+    "package": "cross-spawn",
+    "trivy_vulns": [
+      "CVE-2024-21538"
+    ],
+    "grype_vulns": [
+      "GHSA-3xgq-45jj-v275"
+    ],
+    "status": "both"
+  },
+  {
+    "package": "esbuild",
+    "trivy_vulns": [
+      "GHSA-67mh-4wv8-2f99"
+    ],
+    "grype_vulns": [
+      "GHSA-67mh-4wv8-2f99"
+    ],
+    "status": "both"
+  },
+  {
+    "package": "express",
+    "trivy_vulns": [
+      "CVE-2024-29041",
+      "CVE-2024-43796"
+    ],
+    "grype_vulns": [
+      "GHSA-rv95-896h-c2vc",
+      "GHSA-qw6h-vgh9-j6wx"
+    ],
+    "status": "both"
+  },
+  {
+    "package": "firebase",
+    "trivy_vulns": [
+      "CVE-2024-11023"
+    ],
+    "grype_vulns": [
+      "GHSA-3wf4-68gx-mph8"
+    ],
+    "status": "both"
+  },
+  {
+    "package": "follow-redirects",
+    "trivy_vulns": [
+      "CVE-2024-28849"
+    ],
+    "grype_vulns": [
+      "GHSA-cxjh-pqwp-8mfp"
+    ],
+    "status": "both"
+  },
+  {
+    "package": "happy-dom",
+    "trivy_vulns": [],
+    "grype_vulns": [
+      "GHSA-96g7-g7g9-jxw8"
+    ],
+    "status": "grype_only"
+  },
+  {
+    "package": "hono",
+    "trivy_vulns": [
+      "CVE-2024-32869",
+      "CVE-2024-48913",
+      "CVE-2024-43787"
+    ],
+    "grype_vulns": [
+      "GHSA-2234-fmw7-43wr",
+      "GHSA-3mpf-rcc7-5347",
+      "GHSA-rpfr-3m35-5vx5"
+    ],
+    "status": "both"
+  },
+  {
+    "package": "http-proxy-middleware",
+    "trivy_vulns": [
+      "CVE-2024-21536"
+    ],
+    "grype_vulns": [
+      "GHSA-c7qv-q95q-8v27"
+    ],
+    "status": "both"
+  },
+  {
+    "package": "jose",
+    "trivy_vulns": [
+      "CVE-2024-28176"
+    ],
+    "grype_vulns": [
+      "GHSA-hhhv-q57g-882q"
+    ],
+    "status": "both"
+  },
+  {
+    "package": "micromatch",
+    "trivy_vulns": [
+      "CVE-2024-4067"
+    ],
+    "grype_vulns": [
+      "GHSA-952p-6rrq-rcjv"
+    ],
+    "status": "both"
+  },
+  {
+    "package": "module-from-string",
+    "trivy_vulns": [],
+    "grype_vulns": [
+      "GHSA-q5j8-9m9g-x2jh"
+    ],
+    "status": "grype_only"
+  },
+  {
+    "package": "nanoid",
+    "trivy_vulns": [
+      "CVE-2024-55565"
+    ],
+    "grype_vulns": [
+      "GHSA-mwcw-c2x4-8c55"
+    ],
+    "status": "both"
+  },
+  {
+    "package": "path-to-regexp",
+    "trivy_vulns": [
+      "CVE-2024-45296",
+      "CVE-2024-52798"
+    ],
+    "grype_vulns": [
+      "GHSA-9wv6-86v2-598j",
+      "GHSA-rhx6-c78j-4q9w"
+    ],
+    "status": "both"
+  },
+  {
+    "package": "rollup",
+    "trivy_vulns": [
+      "CVE-2024-47068"
+    ],
+    "grype_vulns": [
+      "GHSA-gcx4-mw62-g8wm"
+    ],
+    "status": "both"
+  },
+  {
+    "package": "send",
+    "trivy_vulns": [
+      "CVE-2024-43799"
+    ],
+    "grype_vulns": [
+      "GHSA-m6fv-jmcg-4jfg"
+    ],
+    "status": "both"
+  },
+  {
+    "package": "serve-static",
+    "trivy_vulns": [
+      "CVE-2024-43800"
+    ],
+    "grype_vulns": [
+      "GHSA-cm22-4g7w-348p"
+    ],
+    "status": "both"
+  },
+  {
+    "package": "tar",
+    "trivy_vulns": [
+      "CVE-2024-28863"
+    ],
+    "grype_vulns": [
+      "GHSA-f5x3-32g6-xq36"
+    ],
+    "status": "both"
+  },
+  {
+    "package": "undici",
+    "trivy_vulns": [
+      "CVE-2025-22150",
+      "CVE-2024-30260",
+      "CVE-2024-30261",
+      "CVE-2024-24758"
+    ],
+    "grype_vulns": [
+      "GHSA-c76h-2ccp-4975",
+      "GHSA-3787-6prv-h9w3",
+      "GHSA-9qxr-qj54-h672",
+      "GHSA-m4v8-wqvr-p9f7"
+    ],
+    "status": "both"
+  },
+  {
+    "package": "vite",
+    "trivy_vulns": [
+      "CVE-2024-31207",
+      "CVE-2024-45811",
+      "CVE-2024-45812",
+      "CVE-2025-24010",
+      "CVE-2025-30208",
+      "CVE-2025-31125"
+    ],
+    "grype_vulns": [
+      "GHSA-4r4m-qw57-chr8",
+      "GHSA-64vr-g452-qvp3",
+      "GHSA-9cwx-2883-4wfx",
+      "GHSA-x574-m823-4x7w"
+    ],
+    "status": "both"
+  },
+  {
+    "package": "vitest",
+    "trivy_vulns": [],
+    "grype_vulns": [
+      "GHSA-9crc-q9x8-hgqq"
+    ],
+    "status": "grype_only"
+  },
+  {
+    "package": "ws",
+    "trivy_vulns": [
+      "CVE-2024-37890"
+    ],
+    "grype_vulns": [
+      "GHSA-3h5v-q93c-6h6q"
+    ],
+    "status": "both"
+  }
+]
